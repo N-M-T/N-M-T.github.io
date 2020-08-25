@@ -2,8 +2,8 @@
 driveId: 15qBa_L7aZjTUc9Q2Lj6y1Wwgu1NRYKHe/preview
 layout: post
 title: Pre-release 
-feature-img: "assets/img/pexels/desk-top.jpeg"
-thumbnail: "assets/img/pexels/desk-top.jpeg"
+feature-img: "assets/img/pexels/desk-messy.jpeg"
+thumbnail: "assets/img/pexels/desk-messy.jpeg"
 tags: [New, Software]
 ---
 
