@@ -1,9 +1,9 @@
 ---
 driveId: 15qBa_L7aZjTUc9Q2Lj6y1Wwgu1NRYKHe/preview
 layout: post
-title: pyCGM Studio 
-feature-img: "assets/img/pexels/computer.jpeg"
-thumbnail: "assets/img/pexels/computer.jpeg"
+title: Pre-release 
+feature-img: "assets/img/pexels/desk-top.jpeg"
+thumbnail: "assets/img/pexels/desk-top.jpeg"
 tags: [New, Software]
 ---
 
