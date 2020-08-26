@@ -33,7 +33,7 @@ The recent lockdown has given me some time to develop a GUI for [pyCGM](https://
 
 ## Plotting
 
-![plotting]({{ "/assets/img/blog/plotting1.gif" | relative_url}})
+![plotting]({{ "/assets/img/blog1/plotting.gif" | relative_url}})
 
 <br />
 <br />
