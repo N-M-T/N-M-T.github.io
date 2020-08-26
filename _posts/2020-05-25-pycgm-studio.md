@@ -11,13 +11,13 @@ tags: [New, Software]
 
 The recent lockdown has given me some time to develop a GUI for [pyCGM](https://github.com/cadop/pyCGM)
 
-![pyCGMstudio]({{ "/assets/img/blog/pyCGM_Studio.png" | relative_url}})
+![pyCGMstudio]({{ "/assets/img/blog1/pyCGM_Studio.png" | relative_url}})
 
 <br />
 
 ## 3D visualisation
 
-![gui]({{ "/assets/img/blog/gui.gif" | relative_url}})
+![gui]({{ "/assets/img/blog1/gui.gif" | relative_url}})
 
 <br />
 <br />
@@ -25,7 +25,7 @@ The recent lockdown has given me some time to develop a GUI for [pyCGM](https://
 
 ## Gap filling
 
-![gapfilling]({{ "/assets/img/blog/gapfilling.gif" | relative_url}})
+![gapfilling]({{ "/assets/img/blog1/gapfilling.gif" | relative_url}})
 
 <br />
 <br />
@@ -33,7 +33,7 @@ The recent lockdown has given me some time to develop a GUI for [pyCGM](https://
 
 ## Plotting
 
-![plotting]({{ "/assets/img/blog/plotting.gif" | relative_url}})
+![plotting]({{ "/assets/img/blog/plotting1.gif" | relative_url}})
 
 <br />
 <br />
@@ -41,5 +41,5 @@ The recent lockdown has given me some time to develop a GUI for [pyCGM](https://
 
 ## Qt for flexibility and stability
 
-![qt]({{ "/assets/img/blog/qt.gif" | relative_url}})
+![qt]({{ "/assets/img/blog1/qt.gif" | relative_url}})
 
